@@ -1,0 +1,4 @@
+view{
+  /* use theme color */
+  /* color: var(--themeColor); */
+}
